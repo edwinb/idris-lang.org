@@ -1,0 +1,56 @@
+Download
+========
+
+Idris 2
+-------
+
+Details to appear on release. For now, you can find the current
+status `on github <http://github.com/edwinb/Idris2>`_. This requires the
+latest Idris 1 to build and install.
+
+Idris 1
+-------
+
+You can find the source from the following places:
+
+* `Hackage <http://hackage.haskell.org/package/idris>`_ has the most recently
+  released version. Assuming you have an up to date Haskell distribution,
+  at the shell prompt, type
+
+  + ``cabal update``
+  + ``cabal install idris``
+* The latest development version is available from github:
+
+  + ``git clone`` `git://github.com/idris-lang/Idris-dev.git <https://github.com/idris-lang/Idris-dev>`_
+
+More detailed installation instructions that are maintained by the Idris
+community are available on the wiki for the following platforms:
+
+* `MacOS <https://github.com/idris-lang/Idris-dev/wiki/Idris-on-OS-X-using-Homebrew>`_
+* `Windows <https://github.com/idris-lang/Idris-dev/wiki/Idris-on-Windows>`_
+* `Ubuntu <https://github.com/idris-lang/Idris-dev/wiki/Idris-on-Ubuntu>`_
+* `Debian <https://github.com/idris-lang/Idris-dev/wiki/Idris-on-Debian>`_
+
+Binary
+------
+
+There are binary packages available for various platforms:
+
+* For Windows: `Windows Binaries <https://github.com/idris-lang/Idris-dev/wiki/Windows-Binaries>`_
+* For OS X: `idris-current.pkg <http://www.idris-lang.org/pkgs/idris-current.pkg>`_ `(SHA 256 hash) <http://www.idris-lang.org/pkgs/idris-current.pkg.sha256>`_
+
+If you require any optional features (e.g. GMP or compile time FFI support),
+you will need to build from source.
+
+Editor Support
+--------------
+
+There are editor modes which support interactive editing:
+
+* `Atom mode <https://atom.io/packages/language-idris>`_
+* `Vim mode (for Idris 1) <https://github.com/idris-hackers/idris-vim>`_
+* `Vim mode (for Idris 2) <https://github.com/edwinb/idris2-vim>`_
+* `Emacs mode <https://github.com/idris-hackers/idris-mode>`_
+
+
+
