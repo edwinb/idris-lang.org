@@ -28,7 +28,7 @@ powerful idea, enabling:
 * assumptions to be made explicit and checked by the compiler. For example, if
   you assume that a list is non-empty, Idris can ensure this assumption always
   holds before the program is run.
-* if desired, properties of program behavior to be formally stated and
+* if desired, properties of program behaviour to be formally stated and
   proven.
 
 Getting Started

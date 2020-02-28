@@ -47,10 +47,14 @@ Editor Support
 
 There are editor modes which support interactive editing:
 
-* `Atom mode <https://atom.io/packages/language-idris>`_
-* `Vim mode (for Idris 1) <https://github.com/idris-hackers/idris-vim>`_
-* `Vim mode (for Idris 2) <https://github.com/edwinb/idris2-vim>`_
-* `Emacs mode <https://github.com/idris-hackers/idris-mode>`_
+* Idris 1
 
+  * `Atom package <https://atom.io/packages/language-idris>`_
+  * `Vim mode (for Idris 1) <https://github.com/idris-hackers/idris-vim>`_
+  * `Emacs mode <https://github.com/idris-hackers/idris-mode>`_
+
+* Idris 2
+
+  * `Vim mode (for Idris 2) <https://github.com/edwinb/idris2-vim>`_
 
 
