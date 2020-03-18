@@ -1,20 +1,6 @@
 Documentation
 =============
 
-Idris 2
--------
-
-Documentation for Idris 2 is available from
-`https://idris2.readthedocs.org <https://idris2.readthedocs.io/>`_.
-This includes:
-
-* A `crash course in Idris 2 <https://idris2.readthedocs.io/en/latest/tutorial/index.html>`_
-* A list of `Changes since Idris 1 <https://idris2.readthedocs.io/en/latest/updates/updates.html>`_
-* `Changes required <https://idris2.readthedocs.io/en/latest/typedd/typedd.html>`_
-  to the code in `Type Driven Development with Idris <https://www.manning.com/books/type-driven-development-with-idris>`_.
-
-You can also find our `Community Standards <{filename}./standards.rst>`_ here.
-
 Idris 1
 -------
 
@@ -30,6 +16,21 @@ There is API documentation for the following packages provided as part of the Id
 
 The `Idris Wiki <https://github.com/idris-lang/Idris-dev/wiki>`_ contains
 a lot of community supplied information. 
+
+Idris 2
+-------
+
+Idris 2 is still a work in progress, but documentation is growing, and
+available from
+`https://idris2.readthedocs.org <https://idris2.readthedocs.io/>`_.
+This includes:
+
+* A `crash course in Idris 2 <https://idris2.readthedocs.io/en/latest/tutorial/index.html>`_
+* A list of `Changes since Idris 1 <https://idris2.readthedocs.io/en/latest/updates/updates.html>`_
+* `Changes required <https://idris2.readthedocs.io/en/latest/typedd/typedd.html>`_
+  to the code in `Type Driven Development with Idris <https://www.manning.com/books/type-driven-development-with-idris>`_.
+
+You can also find our `Community Standards <{filename}./standards.rst>`_ here.
 
 Related Publications
 --------------------
