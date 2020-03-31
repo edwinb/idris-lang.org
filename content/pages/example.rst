@@ -27,7 +27,7 @@ Briefly, it means you can write functions to calculate types:
 
 ...and a function which calculates a type can itself be used in a type.
 The following function either converts an ``Int`` to a ``String``, or
-reverse the ``String``:
+reverses the ``String``:
 
 ::
 
