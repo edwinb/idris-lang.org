@@ -21,7 +21,7 @@ To get started, you can see:
   and how to get started
 * `Changes since Idris 1 <https://idris2.readthedocs.io/en/latest/updates/updates.html>`_
 
-The installation has works successfully on Linux, Mac and Raspberry Pi.  Please
+The installation has worked successfully on Linux, Mac and Raspberry Pi.  Please
 let us know (ideally via the `mailing list
 <{filename}../pages/community.rst>`_) how you get on with installing on
 other platforms. It's likely to need some work before it will install on
