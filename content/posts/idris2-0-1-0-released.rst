@@ -12,7 +12,8 @@ source (including a generated C file for building) from the
 
 This is a complete reimplementation of Idris, written in Idris 1. You will
 need the latest Idris 1 to build from source, or you can build directly
-from the generated C. 
+from the generated C.  Either way, you'll need `Chez Scheme <https://www.scheme.com/>`_ or `Racket
+<https://racket-lang.org>`_ to be able to execute your Idris 2 programs.
 
 Documentation is available `here <https://idris2.readthedocs.org/>`_.
 To get started, you can see:
