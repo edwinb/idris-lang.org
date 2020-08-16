@@ -36,7 +36,9 @@ Language changes
 * ``total``, ``covering`` and ``partial`` flags on functions now have an effect.
 * ``%default <totality status>`` has been implemented. By default, functions must
   be at least ``covering``
+
   + That is, ``%default covering`` is the default status.
+
 * Fields of records can be accessed (and updated) using the dot syntax,
   such as ``r.field1.field2`` or ``record { field1.field2 = 42 }``.
   For details, see https://idris2.readthedocs.io/en/latest/reference/records.html

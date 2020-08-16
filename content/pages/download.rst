@@ -13,8 +13,8 @@ existing Idris 2 system to build. You need:
 
 * Either `Chez Scheme <https://www.scheme.com/>`_ or `Racket
   <https://racket-lang.org>`_ to build the generated Scheme source
-* `bash`, with `realpath`. On Linux, you probably already have this. On
-  a Mac, you can install this with `brew install coreutils`.
+* ``bash``, with ``realpath``. On Linux, you probably already have this. On
+  a Mac, you can install this with ``brew install coreutils``.
 * A C compiler, to build the library support code.
 
 You can always find the latest development version `on github
