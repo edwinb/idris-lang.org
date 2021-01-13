@@ -2,7 +2,7 @@ Idris 2 version 0.2.1 Released
 ##############################
 
 :date: 2020-08-16 15:00
-:tags: meta
+:tags: Release
 :category: News
 :author: Edwin
 

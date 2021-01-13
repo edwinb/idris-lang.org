@@ -2,7 +2,7 @@ Idris 2 version 0.2.2 Released
 ##############################
 
 :date: 2021-01-12 13:00
-:tags: meta
+:tags: Release
 :category: News
 :author: Edwin
 
@@ -19,5 +19,5 @@ bootstrapping path from the previous version (0.2.1) to the next version
   until we raise the minimum requirement)
 
 In theory, it should be possible to continue to build Idris 2 with previous
-compilers, following a path all the way back to LML. I am not keen to
+compilers, following a path all the way back to Lazy ML. I am not keen to
 test this in practice, however :).
