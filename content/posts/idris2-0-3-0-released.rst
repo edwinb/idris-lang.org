@@ -73,7 +73,7 @@ Command-line options changes:
 -----------------------------
 
 * Added ``--colour`` and ``--no-colour`` options for coloured terminal output.
-  Colour is enabled by default.
+  Colour is enabled by default. (An alternative spelling of "colour" works too :))
 * Added ``--console-width <auto|n>`` option for printing margins.  By default the
   ``auto`` option is selected, the result is that the compiler detects the current
   terminal width and sets it as the option value, otherwise a user value can be
