@@ -18,5 +18,5 @@ There is API documentation for the following packages:
 * `prelude <https://www.idris-lang.org/docs/idris2/current/prelude_docs/>`__
 * `base <https://www.idris-lang.org/docs/idris2/current/base_docs/>`__
 * `contrib <https://www.idris-lang.org/docs/idris2/current/contrib_docs/>`__
-* `effects <https://www.idris-lang.org/docs/idris2/current/effects_docs/>`__
+* `network <https://www.idris-lang.org/docs/idris2/current/network_docs/>`__
 
