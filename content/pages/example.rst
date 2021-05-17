@@ -9,7 +9,7 @@ stored in variables, passed to and returned from functions, just like any
 other first class construct. Even so, we still have to start with
 "Hello world":
 
-::
+.. code-block:: idris
 
     main : IO ()
     main = putStrLn "Hello, Idris world"
@@ -19,7 +19,7 @@ is the (free) first chapter of
 `Type Driven Development with Idris <https://www.manning.com/books/type-driven-development-with-idris>`_.
 Briefly, it means you can write functions to calculate types:
 
-::
+.. code-block:: idris
 
     IntOrString : (isInt : Bool) -> Type
     IntOrString True = Int
@@ -29,7 +29,7 @@ Briefly, it means you can write functions to calculate types:
 The following function either converts an ``Int`` to a ``String``, or
 reverses the ``String``:
 
-::
+.. code-block:: idris
 
     showOrReverse : (isInt : Bool) -> IntOrString isInt -> String
     showOrReverse True x = show x
@@ -40,7 +40,7 @@ to ``printf``-like functions (full details omitted here, but you can
 see it in the `tests <https://github.com/edwinb/Idris2/blob/master/tests/typedd-book/chapter06/Printf.idr>`_, where
 the example is taken from the Type Driven Development book):
 
-::
+.. code-block:: idris
 
     printf : (format : String) -> PrintfType format
 
@@ -48,7 +48,7 @@ Idris data types are declared using a similar syntax to Haskell data types. For
 example, natural numbers, an option type and lists are declared in the standard
 library:
 
-::
+.. code-block:: idris
 
     data Nat     = Z       | S Nat
     data Maybe a = Nothing | Just a
@@ -57,7 +57,7 @@ library:
 Functions are implemented by pattern matching. For example, addition on natural
 numbers can be deﬁned as follows, again taken from the standard library:
 
-::
+.. code-block:: idris
 
     (+) : Nat -> Nat -> Nat
     Z     + y = y
@@ -74,7 +74,7 @@ which are lists which carry their size in the type. They are declared as
 follows in the standard library, by giving explicit types for each of the
 constructors:
 
-::
+.. code-block:: idris
 
     data Vect : Nat -> Type -> Type where
         Nil  : Vect Z a
@@ -85,7 +85,7 @@ the type how the function affects the size of the vectors. For example,
 if we append two vectors, the length of the result is the sum of the
 lengths of the inputs:
 
-::
+.. code-block:: idris
 
     app : Vect n a -> Vect m a -> Vect (n + m) a
     app Nil       ys = ys
