@@ -42,14 +42,20 @@ Community
 
 **Mailing list**
     Long-form discussion happens on the `mailing list <https://groups.google.com/forum/#!forum/idris-lang>`_.
-**IRC**
-    There is also an irc channel ``#idris`` on `freenode <irc://chat.freenode.net/idris>`_. 
-    Point your irc client to ``chat.freenode.net`` then ``/join #idris``. 
-    Alternatively, there is a `web interface <http://webchat.freenode.net/>`_. 
 **GitHub**
     The Idris source is available from our repository.
     Tools and code by the wider Idris community are available in a 
     `GitHub organisation <https://github.com/idris-hackers>`_. 
+**Discord**
+    There is an Idris community on `Discord <https://discord.com/>`_ with
+    several channels for learning, help and different aspects of development.
+    You can `get an invitation to join here <https://discord.gg/YXmWC5yKYM>`_
+    This is currently probably the most active place for interactive discussion
+    of Idris.
+**IRC**
+    There is also an irc channel ``#idris`` on `libera <https://libera.chat/>`_.
+    Point your irc client to ``irc.libera.chat`` then ``/join #idris``.
+    For a web interface, you can try `IRCCloud <https://www.irccloud.com/>`_.
 **Slack**
     There is an active ``#idris`` channel on the 
     `Functional Programming <https://functionalprogramming.slack.com/>`_ Slack.
