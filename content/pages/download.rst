@@ -4,7 +4,7 @@ Download
 Idris 2
 -------
 
-The latest version is Idris 2 0.3.0. You can find the latest release at:
+The latest version is Idris 2 0.4.0. You can find the latest release at:
 
 * `idris2-latest.tgz <https://www.idris-lang.org/idris2-src/idris2-latest.tgz>`_ `(SHA 256 hash) <http://www.idris-lang.org/idris2-src/idris2-latest.tgz.sha256>`__
 
