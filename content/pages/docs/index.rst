@@ -36,6 +36,7 @@ There is API documentation for the following packages:
 * `base <https://www.idris-lang.org/docs/idris2/current/base_docs/>`__
 * `contrib <https://www.idris-lang.org/docs/idris2/current/contrib_docs/>`__
 * `network <https://www.idris-lang.org/docs/idris2/current/network_docs/>`__
+* `test <https://www.idris-lang.org/docs/idris2/current/test_docs/>`__
 
 You can also find our `Community Standards <{filename}./standards.rst>`_ here.
 
