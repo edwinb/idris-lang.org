@@ -1,22 +1,6 @@
 Documentation
 =============
 
-Idris 1
--------
-
-Documentation for Idris 1 is available from
-`https://docs.idris-lang.org <https://docs.idris-lang.org/>`_.
-
-There is API documentation for the following packages provided as part of the Idris distribution:
-
-* `prelude <https://www.idris-lang.org/docs/current/prelude_doc/>`_
-* `base <https://www.idris-lang.org/docs/current/base_doc/>`_
-* `contrib <https://www.idris-lang.org/docs/current/contrib_doc/>`_
-* `effects <https://www.idris-lang.org/docs/current/effects_doc/>`_
-
-The `Idris Wiki <https://github.com/idris-lang/Idris-dev/wiki>`_ contains
-a lot of community supplied information. 
-
 Idris 2
 -------
 
@@ -39,6 +23,22 @@ There is API documentation for the following packages:
 * `test <https://www.idris-lang.org/docs/idris2/current/test_docs/>`__
 
 You can also find our `Community Standards <{filename}./standards.rst>`_ here.
+
+Idris 1
+-------
+
+Documentation for Idris 1 is available from
+`https://docs.idris-lang.org <https://docs.idris-lang.org/>`_.
+
+There is API documentation for the following packages provided as part of the Idris distribution:
+
+* `prelude <https://www.idris-lang.org/docs/current/prelude_doc/>`_
+* `base <https://www.idris-lang.org/docs/current/base_doc/>`_
+* `contrib <https://www.idris-lang.org/docs/current/contrib_doc/>`_
+* `effects <https://www.idris-lang.org/docs/current/effects_doc/>`_
+
+The `Idris Wiki <https://github.com/idris-lang/Idris-dev/wiki>`_ contains
+a lot of community supplied information. 
 
 Related Publications
 --------------------
