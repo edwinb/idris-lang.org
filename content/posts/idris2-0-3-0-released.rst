@@ -37,19 +37,25 @@ Language and compiler changes:
   linear versions of functions as special cases. (Though note that the 1
   multiplicity is still considered experimental, so hopefully this will change
   for the better in the future!)
-* Added new syntax for named applications of explicit arguments::
+* Added new syntax for named applications of explicit arguments
 
-     f {x [= t], x [= t], ...}
-     f {x [= t], x [= t], ..., _}
+  .. code-block:: idris
 
-* Added syntax for binding all explicit arguments (in the left hand side)::
+      f {x [= t], x [= t], ...}
+      f {x [= t], x [= t], ..., _}
 
-     f {}
+* Added syntax for binding all explicit arguments (in the left hand side)
+
+  .. code-block:: idris
+
+      f {}
 
 * Added new syntax for record updates (without the need for the ``record``
-  keyword)::
+  keyword)
 
-     {x := t, x $= t, ...}
+  .. code-block:: idris
+
+      {x := t, x $= t, ...}
 
 * Local implementations of interfaces (in ``let`` or ``where`` blocks) now work,
   along with ``%hint`` annotations on local definitions, meaning that local
