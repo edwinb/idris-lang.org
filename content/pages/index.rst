@@ -18,7 +18,7 @@ checker as our assistant, guiding us to a complete program that satisfies the
 type. The more expressive the type is that we give up front, the more
 confidence we can have that the resulting program will be correct.
 
-In Idris, types are first-class constructs in the langauge. This means types
+In Idris, types are first-class constructs in the language. This means types
 can be passed as arguments to functions, and returned from functions just like
 any other value, such as numbers, strings, or lists. This is a small but
 powerful idea, enabling:
