@@ -25,7 +25,7 @@ You can always find the latest development version `on github
 If you want to install it the "hard way", you can use a bootstrapping
 version of Idris 2, which is implemented in Idris 1:
 
-+ ``git clone`` `https://github.com/edwinb/Idris2-boot.git <https://github.com/edwinb/Idris2=boot>`_
++ ``git clone`` `https://github.com/edwinb/Idris2-boot.git <https://github.com/edwinb/Idris2-boot>`_
 
 Idris 1
 -------
